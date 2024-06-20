@@ -1,6 +1,6 @@
 {
   "name": "create-thepuzzlers-nextjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI to create thepuzzlers starter based on Nextjs",
   "main": "index.js",
   "author": "gedesurya125",

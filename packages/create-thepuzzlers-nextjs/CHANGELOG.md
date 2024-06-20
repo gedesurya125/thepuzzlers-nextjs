@@ -1,5 +1,11 @@
 # create-thepuzzlers-nextjs
 
+## 1.0.4
+
+### Patch Changes
+
+- Update the changeset configuration
+
 ## 1.0.3
 
 ### Patch Changes
