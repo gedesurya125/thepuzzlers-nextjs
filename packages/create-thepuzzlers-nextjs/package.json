@@ -11,6 +11,6 @@
     "shelljs": "^0.8.5"
   },
   "bin": {
-    "create-thepuzzlers-nextjs": "./index.js"
+    "create-thepuzzlers-next-js": "./index.js"
   }
 }
