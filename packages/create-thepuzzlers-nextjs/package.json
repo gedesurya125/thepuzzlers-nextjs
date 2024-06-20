@@ -1,6 +1,6 @@
 {
   "name": "create-thepuzzlers-nextjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI to create thepuzzlers starter based on Nextjs",
   "main": "index.js",
   "author": "gedesurya125",
@@ -11,6 +11,6 @@
     "shelljs": "^0.8.5"
   },
   "bin": {
-    "create-starter-app": "./index.js"
+    "create-thepuzzlers-nextjs": "./index.js"
   }
 }
