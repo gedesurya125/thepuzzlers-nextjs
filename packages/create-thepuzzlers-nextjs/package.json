@@ -1,10 +1,11 @@
 {
   "name": "create-thepuzzlers-nextjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI to create thepuzzlers starter based on Nextjs",
   "main": "index.js",
   "author": "gedesurya125",
   "license": "MIT",
+  "private":false,
   "dependencies": {
     "commander": "^12.1.0",
     "fs-extra": "^11.2.0",
