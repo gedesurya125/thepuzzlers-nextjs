@@ -7,7 +7,7 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "starters/*"
+    "packages/*"
   ],
   "scripts": {
     "starter:dev": "yarn workspace thepuzzlers-nextjs-starter dev"
