@@ -11,5 +11,8 @@
   ],
   "scripts": {
     "starter:dev": "yarn workspace thepuzzlers-nextjs-starter dev"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.27.5"
   }
 }
