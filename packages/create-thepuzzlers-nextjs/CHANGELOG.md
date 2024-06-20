@@ -1,5 +1,11 @@
 # create-thepuzzlers-nextjs
 
+## 0.0.1
+
+### Patch Changes
+
+- update the project name
+
 ## 1.0.4
 
 ### Patch Changes
