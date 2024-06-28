@@ -10,7 +10,7 @@
     "packages/*"
   ],
   "scripts": {
-    "starter:dev": "yarn workspace thepuzzlers-nextjs-starter dev"
+    "thepuzzlers-next-js-starter:dev": "cd packages/create-thepuzzlers-nextjs/templates/thepuzzlers-nextjs-starter && yarn install && yarn dev"
   },
   "devDependencies": {
     "@changesets/cli": "^2.27.5"
